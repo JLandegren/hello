@@ -5,7 +5,7 @@ int main(int argc, **argv)
 	printf("Electrical Engineering\n");
 
 	printf("Maalav Desai\n");
-	printf("Mechanical Engineering\n");
+	printf(" Mechanical Engineering\n");
 
   return 0;
 }
