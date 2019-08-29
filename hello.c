@@ -3,6 +3,9 @@
 // Date: 8/29/19
 
 
+#include <stdlib.h>
+#include <stdio.h>
+
 int main(int argc, **argv)
 {
 	
